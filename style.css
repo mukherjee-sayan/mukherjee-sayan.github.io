@@ -80,9 +80,10 @@ table {
 .internship {
     border: 1pt solid black;
     border-radius: .5em;
-    padding-bottom: 1vw;
-    padding-left: 5vw;
-    text-align: left;
+    padding: 1.5vw;
+    /* padding-bottom: 1vw; */
+    /* padding-left: 5vw; */
+    text-align: center;
 }
 
 .internship h2 {
@@ -104,6 +105,7 @@ table {
     background-color: rgb(255, 250, 221);
     padding-top: .25em;
     padding-bottom: .25em;
+    text-align: center;
 }
 
 .employment {
